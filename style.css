@@ -1,0 +1,19 @@
+h1 {text-align: center;
+    color: blue}
+.gambar {display: block;
+    margin-left: auto;
+    margin-right: auto;}
+.gambara {display: block;
+    margin-left: auto;
+        margin-right: auto;
+        width: 400px}
+.gambaro {display: block;
+        margin-left: auto;
+            margin-right: auto;
+            width: 400px}
+.daniel {display: block;
+                margin-left: auto;
+                    margin-right: auto;
+                    width: 250px}    
+body {background-color:#bada55}
+p {font-size: 20px;}
